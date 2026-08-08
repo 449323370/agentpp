@@ -1,4 +1,4 @@
-# Agent++
+# Open Codex
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-Agent++ 面向需要“能做事”的 AI 编码场景：不只是聊天问答，而是围绕真实项目持续完成任务。它通过 TKEN 账户服务连接已授权 GPT，同时开放兼容接口，让国产模型、自有模型和外部渠道都能进入同一个模型选择器。
+Open Codex 面向需要“能做事”的 AI 编码场景：不只是聊天问答，而是围绕真实项目持续完成任务。它通过 TKEN 账户服务连接已授权 GPT，同时开放兼容接口，让国产模型、自有模型和外部渠道都能进入同一个模型选择器。
 
 
 
@@ -33,15 +33,15 @@ Agent++ 面向需要“能做事”的 AI 编码场景：不只是聊天问答�
 ## V133.0.0
 
 
-> 客户端品牌名：Agent++。GitHub Release 安装包使用 Agent++ 文件名；官方下载镜像保留兼容旧技术路径。
+> 客户端品牌名：Open Codex。GitHub Release 安装包使用 Open Codex 文件名；官方下载镜像保留兼容旧技术路径。
 
 
 
 
-- [GitHub Release](https://github.com/449323370/agent-plus-plus/releases/tag/v133.0.0)
+- [GitHub Release](https://github.com/449323370/open-codex/releases/tag/v133.0.0)
 - [官方下载镜像](https://download.tken.shop/agentpp/agentpp-V133-Final-Windows-Setup-20260806.exe)
 - [官方下载别名（版本化）](https://download.tken.shop/agentpp/agent++.exe?v=133.0.0)
-- GitHub Release 文件：agent++-V133-Final-Windows-Setup-20260806.exe
+- GitHub Release 文件：Open-Codex-V133-Final-Windows-Setup-20260806.exe
 - 大小：645,080,788 bytes
 - SHA-256：d0c367b8e861079d99050045bf1b5d47baeed2187113f2894c03bf06506ec292
 
@@ -58,17 +58,17 @@ Agent++ 面向需要“能做事”的 AI 编码场景：不只是聊天问答�
 
 
 
-![模型连接：同时配置多个外部渠道](https://github.com/449323370/agent-plus-plus/releases/download/v133.0.0/model-connections.png)
+![模型连接：同时配置多个外部渠道](https://github.com/449323370/open-codex/releases/download/v133.0.0/model-connections.png)
 
 
 
 
-![模型选择器：内置与外接模型统一选择](https://github.com/449323370/agent-plus-plus/releases/download/v133.0.0/model-picker.png)
+![模型选择器：内置与外接模型统一选择](https://github.com/449323370/open-codex/releases/download/v133.0.0/model-picker.png)
 
 
 
 
-![国产模型与多模型切换](https://github.com/449323370/agent-plus-plus/releases/download/v133.0.0/model-catalog.png)
+![国产模型与多模型切换](https://github.com/449323370/open-codex/releases/download/v133.0.0/model-catalog.png)
 
 
 
@@ -78,7 +78,7 @@ Agent++ 面向需要“能做事”的 AI 编码场景：不只是聊天问答�
 
 
 
-1. 安装并启动 Agent++。
+1. 安装并启动 Open Codex。
 2. 首次使用选择“领取免费体验”，已有账户选择“连接已有密钥”。
 3. 在“分组与密钥”中保存已开通服务的 Key，选择模型并发送一条短消息。
 4. 如需外部模型，进入“设置 -> 个人 -> 模型连接”，添加渠道、获取模型、测试所选模型，再保存。
@@ -87,7 +87,7 @@ Agent++ 面向需要“能做事”的 AI 编码场景：不只是聊天问答�
 
 
 
-完整教程：[Agent++ 使用帮助](https://www.tken.shop/agentpp-help)
+完整教程：[Open Codex 使用帮助](https://www.tken.shop/agentpp-help)
 
 
 
@@ -102,4 +102,4 @@ Agent++ 面向需要“能做事”的 AI 编码场景：不只是聊天问答�
 
 
 
-本仓库用于发布 Windows 安装包和版本说明，核心客户端源码不包含在仓库中。问题请提交到 [Issues](https://github.com/449323370/agent-plus-plus/issues)，只提供版本号、复现步骤和不含隐私的错误现象。
+本仓库用于发布 Windows 安装包和版本说明，核心客户端源码不包含在仓库中。问题请提交到 [Issues](https://github.com/449323370/open-codex/issues)，只提供版本号、复现步骤和不含隐私的错误现象。
