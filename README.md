@@ -17,8 +17,8 @@ Open Codex 适合希望“直接开干”的用户：安装客户端后就能开
 
 ## 下载
 
-- [Windows 安装包（V148）](https://github.com/449323370/open-codex/releases/download/v164.0.0/Open-Codex-V164-Windows-Setup-20260814.exe)
-- [版本发布页](https://github.com/449323370/open-codex/releases/tag/v149.0.0)
+- [Windows 安装包（V165）](https://github.com/449323370/open-codex/releases/download/v165.0.0/Open-Codex-V165-Windows-Setup-20260814.exe)
+- [版本发布页（V165）](https://github.com/449323370/open-codex/releases/tag/v165.0.0)
 
 ## 上手流程
 
@@ -26,37 +26,37 @@ Open Codex 适合希望“直接开干”的用户：安装客户端后就能开
 
 安装完成后，用户可以直接进入账户与服务页面，查看余额、订阅、当前密钥和分组，不需要额外安装 Codex 或准备独立运行环境。
 
-![账户与服务](images/readme/account-service.png)
+![账户与服务](https://download.tken.shop/agentpp/readme-images/account-service.png?v=165.0.0)
 
 ### 2. 添加你自己的模型渠道
 
 如果你已经有自己的 API 渠道，可以直接在“设置 -> 模型连接”里新增外部渠道，填写渠道名称、Base URL 和 API Key。
 
-![添加模型渠道](images/readme/model-connection-add-channel.png)
+![添加模型渠道](https://download.tken.shop/agentpp/readme-images/model-connection-add-channel.png?v=165.0.0)
 
 ### 3. 获取模型列表并保存
 
 填写完成后，点击“获取模型列表”，就能直接拉取该渠道的可用模型，筛选后保存到当前客户端。
 
-![获取模型列表](images/readme/model-connection-model-list.png)
+![获取模型列表](https://download.tken.shop/agentpp/readme-images/model-connection-model-list.png?v=165.0.0)
 
 ### 4. 在对话里统一切换模型
 
 无论是官方模型、国产模型，还是你自己接入的第三方模型，都会进入同一个模型选择器里统一切换，不需要再套一层复杂兼容工具。
 
-![统一模型选择器](images/readme/model-picker-unified.png)
+![统一模型选择器](https://download.tken.shop/agentpp/readme-images/model-picker-unified.png?v=165.0.0)
 
 ### 5. 绑定微信，开启远程控制
 
 如果需要远程协作，可以在客户端里绑定微信。绑定后，手机微信可以直接给 Open Codex 发送指令，实现远程控制和结果回传。
 
-![绑定微信远程控制](images/readme/wechat-remote-control.png)
+![绑定微信远程控制](https://download.tken.shop/agentpp/readme-images/wechat-remote-control.png?v=165.0.0)
 
 ### 6. 直接使用图片能力
 
 完成模型接入后，可以直接在会话里调用图片生成能力，不需要额外切换到别的工具链。
 
-![图片生成示例](images/readme/image-generation.png)
+![图片生成示例](https://download.tken.shop/agentpp/readme-images/image-generation.png?v=165.0.0)
 
 ## 适合谁
 
