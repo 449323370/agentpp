@@ -19,6 +19,7 @@ Open Codex 适合希望“直接开干”的用户：安装客户端后就能开
 
 - [Windows 安装包（V209）](https://github.com/449323370/open-codex/releases/download/v209.0.0/Open-Codex-V209-Windows-Setup-20260822.exe)
 - [完整客户端源码备份（V209）](https://github.com/449323370/open-codex/releases/download/v209.0.0/Open-Codex-V209-Source-20260822.zip)
+- [V208→V209 增量更新包](https://github.com/449323370/open-codex/releases/download/v209.0.0/Open-Codex-V209-from-V208-release.delta.zip)
 - [版本发布页（V209）](https://github.com/449323370/open-codex/releases/tag/v209.0.0)
 
 ## 上手流程
